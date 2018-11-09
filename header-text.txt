@@ -1,0 +1,1 @@
+WEB2000:  Students will learn about interactivity for the web.  This includes email marketing best practices using HTML, how to be more proficient with the bootstrap.js library,  html5 semantic elements, basics of the shadow DOM, work with the canvas object, performance optimization of webpages, responsive web design, and the basics of UX design.
